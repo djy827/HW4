@@ -1,0 +1,17 @@
+D:\科目一考试系统\1\网站\DAL\bin\Debug\DAL.dll.config
+D:\科目一考试系统\1\网站\DAL\bin\Debug\DAL.dll
+D:\科目一考试系统\1\网站\DAL\bin\Debug\DAL.pdb
+D:\科目一考试系统\1\网站\DAL\bin\Debug\EntityFramework.dll
+D:\科目一考试系统\1\网站\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\科目一考试系统\1\网站\DAL\bin\Debug\Models.dll
+D:\科目一考试系统\1\网站\DAL\bin\Debug\Models.pdb
+D:\科目一考试系统\1\网站\DAL\bin\Debug\Models.dll.config
+D:\科目一考试系统\1\网站\DAL\bin\Debug\EntityFramework.xml
+D:\科目一考试系统\1\网站\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\科目一考试系统\1\网站\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\科目一考试系统\1\网站\DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\科目一考试系统\1\网站\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\科目一考试系统\1\网站\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\科目一考试系统\1\网站\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\科目一考试系统\1\网站\DAL\obj\Debug\DAL.dll
+D:\科目一考试系统\1\网站\DAL\obj\Debug\DAL.pdb
